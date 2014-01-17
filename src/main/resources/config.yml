@@ -1,0 +1,21 @@
+# Display the amount of damage that was taken
+# Note: this does not always seem to be accurate
+displayAmount: false
+
+# Display what caused the damage
+# Note: this isn't very specific
+displayCause: false
+
+# Choose which coordinates get displayed
+displayX: true
+displayY: true
+displayZ: true
+
+# Choose the colors for the message
+# Color codes can be found at http://minecraft.gamepedia.com/Formatting_codes
+primaryColorCharacter: c
+secondaryColorCharacter: 6
+
+# Choose the minimum number of seconds that must pass between damage messages from a single player
+# This prevents a player repeatedly taking damage (fire, poison, etc.) from spamming the chat
+playerMessageCooldown: 5
