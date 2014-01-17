@@ -1,5 +1,6 @@
-package net.ryanmck.damagelocationannounce;
+package net.ryanmck.damagelocationannounce.bukkit;
 
+import net.ryanmck.damagelocationannounce.bukkit.DamageListener;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 

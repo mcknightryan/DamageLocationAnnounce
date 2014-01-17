@@ -1,4 +1,4 @@
-package net.ryanmck.damagelocationannounce;
+package net.ryanmck.damagelocationannounce.bukkit;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;

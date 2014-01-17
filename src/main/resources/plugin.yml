@@ -1,5 +1,5 @@
 name: DamageLocationAnnounce
-main: net.ryanmck.damagelocationannounce.DamageLocationAnnounce
+main: net.ryanmck.damagelocationannounce.bukkit.DamageLocationAnnounce
 version: 1.0
 description: >
              Announces player's location when they take damage
