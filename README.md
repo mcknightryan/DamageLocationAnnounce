@@ -8,7 +8,7 @@ The plugin will announce in chat when a player takes damage. The message it disp
 Download
 --------
 
-Link to a jar file coming soon.
+You can download a precompiled jar from [here](http://uhc.niccossystem.net/irrelium/f/DamageLocationAnnounce.jar).
 
 Compilation
 -----------
